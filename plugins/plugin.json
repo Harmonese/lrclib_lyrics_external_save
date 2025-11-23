@@ -4,7 +4,7 @@
     "description": "Fetch synced or plain lyrics from LRCLIB after saving files, writing .lrc or .txt sidecar files beside the audio file without modifying tags.",
     "author": "Harmonese",
     "email": "",
-    "homepage": "https://github.com/solivepabona7/lrclib_lyrics_external_save",
+    "homepage": "https://github.com/Harmonese/lrclib_lyrics_external_save",
     "license": "MIT",
     "api_versions": [
         "2.0",
