@@ -1,0 +1,13 @@
+# macOS system files
+.DS_Store
+
+# Python venv
+.venv/
+venv/
+env/
+
+# Byte-compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
